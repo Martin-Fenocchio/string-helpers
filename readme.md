@@ -7,13 +7,13 @@ A lightweight library for common string manipulation tasks 🧠.
 You can install `string-helpers` using npm or yarn:
 
 ```bash
-npm install string-helpers
+npm install @martin-fenocchio/string-helpers
 ```
 
 or
 
 ```bash
-yarn add string-helpers
+yarn add @martin-fenocchio/string-helpers
 ```
 
 ## Usage
@@ -29,7 +29,7 @@ const {
   capitalize,
   reverse,
   truncate,
-} = require("string-helpers");
+} = require("@martin-fenocchio/string-helpers");
 
 // Convert a string to camelCase
 console.log(toCamelCase("hello world")); // Output: helloWorld 🔄
