@@ -7,9 +7,27 @@
   "files": [
     "dist"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Martin-Fenocchio/string-helpers"
+  },
+  "keywords": [
+    "string",
+    "string helpers",
+    "string manipulation",
+    "string functions",
+    "string methods"
+  ],
+  "author": "Martin Fenocchio",
+  "bugs": {
+    "url": "https://github.com/Martin-Fenocchio/string-helpers/issues"
+  },
+  "homepage": "https://github.com/Martin-Fenocchio/string-helpers#readme",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "license": "ISC"
 }
