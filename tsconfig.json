@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "declaration": true,          // Generate declaration files
+    "emitDeclarationOnly": false, // Emit both .js and .d.ts files
+    "outDir": "./dist",           // Output directory for compiled files
+    "module": "CommonJS",         // Use CommonJS for compatibility
+    "target": "ES6",              // Specify ECMAScript target version
+    "strict": true,               // Enable strict type checking
+    "esModuleInterop": true,      // Allow ES module imports
+    "forceConsistentCasingInFileNames": true // Ensure consistent file casing
+  },
+  "include": ["stringHelpers.ts"],  // Include your TypeScript files
+  "exclude": ["node_modules"]       // Exclude unnecessary directories
+}
