@@ -101,4 +101,4 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## License
 
-`string-helpers` is licensed under the ISC License. 🚫
+`string-helpers` is licensed under the ISC License.

@@ -1,6 +1,6 @@
 {
   "name": "@martin-fenocchio/string-helpers",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "A lightweight library for common string manipulation tasks.",
   "main": "dist/stringHelpers.js",
   "types": "dist/stringHelpers.d.ts",
